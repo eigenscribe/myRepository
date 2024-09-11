@@ -6,6 +6,8 @@ Create new python enviornment:
 python3 -m venv .venv
 ```
 
+MAKE SURE `virtualenv` IS INSTALLED
+
 Activate python virtual enviornment:
 ```shell
 cd .venv
