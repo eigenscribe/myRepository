@@ -3,15 +3,13 @@
 Create new python enviornment:
 
 ```shell
-python3 -m venv .venv
+python3 -m venv myvenv
 ```
-
-‼️ MAKE SURE `virtualenv` IS INSTALLED ‼️
 
 Activate python virtual enviornment:
 ```shell
 cd .venv
-source .venv/bin/activate
+source /workspaces/myRepository/myvenv
 ```
 
 Deactivate virtual enviornment to return to home directory:
@@ -19,3 +17,5 @@ Deactivate virtual enviornment to return to home directory:
 deactivate
 cd ~
 ```
+
+📝 Note: if not workiung try installing `virtualenv`
