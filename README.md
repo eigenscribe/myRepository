@@ -8,8 +8,8 @@ python3 -m venv myvenv
 
 Activate python virtual enviornment:
 ```shell
-cd .venv
-source /workspaces/myRepository/myvenv
+cd myvenv
+source /workspaces/myRepository/myvenv/bin/activate
 ```
 
 Deactivate virtual enviornment to return to home directory:
