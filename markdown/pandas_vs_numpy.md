@@ -12,6 +12,7 @@
 ---
 ## `numpy` Library
 - Works with **arrays**
+  - Use for MATLABish tasks
 - "Skeleton" code:
    ```py
    import numpy as np
