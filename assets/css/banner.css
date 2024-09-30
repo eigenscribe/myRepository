@@ -1,0 +1,37 @@
+nav {
+  position: sticky;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  padding: 0;
+}
+
+.logo {
+  padding-right: 10px;
+  font-size: 27px;
+  height: 75px;
+}
+
+.title {
+  text-decoration: none;
+  text-decoration-line: none;
+  text-decoration-style: initial;
+  text-decoration-color: initial;
+  font-weight: bold;
+  font-size: 1.75em;
+  line-height: 2.25em;
+  white-space: nowrap;
+  font-weight: bold;
+  background: -webkit-linear-gradient(#00c4f5, #8138ff);
+  -webkit-background-clip: text;
+  color: transparent;
+  background-clip: text;
+  text-align: center;
+}
+
+.app-header {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
