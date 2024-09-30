@@ -1,0 +1,19 @@
+/* Links styling */
+a {
+  font-weight: bold;
+  background: linear-gradient(#2a54fe, #0099ff);
+  color: transparent;
+  -webkit-background-clip: text;
+}
+
+a:visited {
+  background: linear-gradient(#27aaff, #e99e58);
+}
+
+a:hover {
+  background: linear-gradient(#2a54fe, #e99e58);
+}
+
+a:active {
+  background: linear-gradient(#27aaff, #e99e58);
+}
